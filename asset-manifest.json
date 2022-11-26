@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/diedreifragezeichen/static/css/main.073c9b0a.css",
+    "main.js": "/diedreifragezeichen/static/js/main.820d3b76.js",
+    "static/js/787.2034915c.chunk.js": "/diedreifragezeichen/static/js/787.2034915c.chunk.js",
+    "static/media/logo.svg": "/diedreifragezeichen/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/diedreifragezeichen/index.html",
+    "main.073c9b0a.css.map": "/diedreifragezeichen/static/css/main.073c9b0a.css.map",
+    "main.820d3b76.js.map": "/diedreifragezeichen/static/js/main.820d3b76.js.map",
+    "787.2034915c.chunk.js.map": "/diedreifragezeichen/static/js/787.2034915c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.820d3b76.js"
+  ]
+}
